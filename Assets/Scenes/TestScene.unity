@@ -455,6 +455,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6c5a2838da568241b3a93e72205b4ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spawnIndex: 3
+  useRandomSelector: 1
   spawnGroups:
   - spawnObjects:
     - {fileID: 2642926462952697334, guid: bd0e2246c6262324fa921356f1d75ec6, type: 3}
